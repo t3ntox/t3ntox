@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h3 align="center">3rd year Computer Engineering student from Spain</h3>
 
-<!--
-**t3ntox/t3ntox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=t3ntox&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/t3ntox">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🎓 3rd year <b>Computer Engineering</b> student</li>
+  <li>🔭 Currently learning more about <b>software engeneering, embedded systems, databases and machine learning</b></li>
+  <li>🛠 I like building <b>practical projects</b>
+  <li>💬 I enjoy working with <b>Python and Java</b></li>
+  <li>📫 Contact me at: <b>vidaljobdev@gmail.com</b></li>
+</ul>
+
+
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3ntox&theme=radical" alt="streak" />
+</p>
+
+<h2>⭐ Featured Projects</h2>
+<ul>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=400&height=60&duration=2000&pause=1000&background=00000000&lines=COMING+SOON..."
+    alt="Coming soon..."
+  />
+</p>
+</ul>
+
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a href="mailto:vidaljobdev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
