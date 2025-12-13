@@ -16,7 +16,7 @@
   <li>🎓 3rd year <b>Computer Engineering</b> student</li>
   <li>🔭 Currently learning more about <b>software engeneering, embedded systems, databases and machine learning</b></li>
   <li>🛠 I like building <b>practical projects</b>
-  <li>💬 I enjoy working with <b>Python and Java</b></li>
+  <li>💬 I enjoy <b>programming</b></li>
   <li>📫 Contact me at: <b>vidaljobdev@gmail.com</b></li>
 </ul>
 
