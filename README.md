@@ -27,15 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3ntox&theme=radical" alt="streak" />
 </p>
 
-<h2>⭐ Featured Projects</h2>
-<ul>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=400&height=60&duration=2000&pause=1000&background=00000000&lines=COMING+SOON..."
-    alt="Coming soon..."
-  />
-</p>
-</ul>
 
 <h2>🌐 Connect with Me</h2>
 <p>
