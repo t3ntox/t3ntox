@@ -27,10 +27,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3ntox&theme=radical" alt="streak" />
 </p>
 
-
-<h2>🌐 Connect with Me</h2>
-<p>
-  <a href="mailto:vidaljobdev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
